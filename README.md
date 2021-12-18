@@ -1,6 +1,6 @@
 # Nix
 
-These are my unix configurations
+These are my unix et al configurations
 
 ## Fish
 
