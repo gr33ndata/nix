@@ -1,0 +1,1 @@
+alias ipn "jupyter notebook"

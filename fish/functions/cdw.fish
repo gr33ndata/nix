@@ -1,0 +1,1 @@
+alias cdw "cd ~/Workshop/"
